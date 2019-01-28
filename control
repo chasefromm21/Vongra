@@ -1,0 +1,9 @@
+Package: com.chasefromm.vongra
+Name: Vongra
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chase Fromm
+Author: Chase Fromm
+Section: Tweaks
